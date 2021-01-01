@@ -1,11 +1,6 @@
 /* typlog override */
-
-body {
-    /* background: #FCFCFC; */
-}
-
 .h-entry .e-content {
     font-size: 18px;
     line-height: 1.4;
-    font-family: "Noto Serif CJK", "Noto Serif", "Noto Serif SC", "Noto Serif TC", Serif, var(--en-sans), var(--cjk-sans), sans-serif;
+    font-family: "Noto Serif CJK", "Noto Serif", "Noto Serif SC", "Noto Serif TC", Serif, var(--en-sans)), var(--cjk-sans)), sans-serif;
 }
