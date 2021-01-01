@@ -1,5 +1,4 @@
 /* typlog override */
 .h-entry .e-content {
-    font-size: 18px;
-    font-family:  var(--en-sans), var(--cjk-sans), serif;
+    font-family: "Droid Serif",var(--cjk-sans),sans-serif;
 }
