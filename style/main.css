@@ -80,11 +80,11 @@ nav {
     color: #666666;
 }
 
-.post:first-child .text {
+.post .featured .text {
     margin-left: 48px;
 }
 
-.post:first-child h2 {
+.post .featured h2 {
     font-family: 'Noto Serif', Georgia, 'Times New Roman', Times, serif;
     font-style: normal;
     font-weight: bold;
@@ -110,6 +110,18 @@ nav {
     background-image: url(../assets/ux-soil/cover.jpg);
 }
 
+.cover-image.five {
+    background-image: url(../assets/ux-memory/sign.png);
+}
+
+.cover-image.six {
+    background-image: url(https://images.unsplash.com/photo-1597484389225-c68a9f0fa106?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjM2MzIyfQ);
+}
+
+.cover-image.seven {
+    background-image: url(../assets/ux-memory/sign.png);
+}
+
 @media only screen and (min-width: 768px) {
     .catalog {
         max-width: 760px;
@@ -118,7 +130,7 @@ nav {
         column-gap: 32px;
         row-gap: 72px;
     }
-    .post:first-child {
+    .post .featured {
         grid-column: 1 / span 2;
         display: flex;
     }
@@ -130,10 +142,10 @@ nav {
         grid-template-columns: 1fr 1fr 1fr;
     }
     /* featured blog post */
-    .post:first-child {
+    .post .featured {
         grid-column: 1 / span 3;
     }
-    .post:first-child .cover-image {
+    .post .featured .cover-image {
         width: 455px;
         height: 250px;
         background-size: cover;
