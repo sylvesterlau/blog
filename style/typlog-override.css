@@ -1,14 +1,13 @@
 /* typlog override */
 
 .side_logo {
-    width: 50px;
-    height: 50px;
-    border-radius: 25px;
+    width: 64px;
+    height: 64px;
+    border-radius: 4px;
 }
 
 h1.side_title {
-    font-size: 24px;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 h2.side_subtitle {
@@ -25,7 +24,6 @@ h2.side_subtitle {
 
 h1.side_title, .site-link {
     font-family: ff-tisa-sans-web-pro, "Helvetica Neue", Arial, sans-serif;
-    text-transform: lowercase;
 }
 
 h1.p-name {
