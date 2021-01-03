@@ -27,8 +27,12 @@ h1.side_title, .site-link {
 }
 
 h1.p-name {
-    font-size: 1.8em;
     line-height: 1.25;
+    font-weight: 700;
+}
+
+.h-entry .e-content{
+    line-height: 1.7;
 }
 
 .e-content>.footnotes, .e-content>.highlight, .e-content>.md-block, .e-content>p, .inner, .md-embed {
