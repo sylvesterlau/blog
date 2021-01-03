@@ -26,6 +26,10 @@ h1.side_title, .site-link {
     text-transform: none;
 }
 
+.site-link {
+    font-weight: 700;
+}
+
 h1.p-name {
     line-height: 1.25;
     font-weight: 700;
