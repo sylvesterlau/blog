@@ -30,3 +30,10 @@ h1.p-name {
     font-size: 1.8em;
     line-height: 1.25;
 }
+
+.e-content>.footnotes, .e-content>.highlight, .e-content>.md-block, .e-content>p, .inner, .md-embed {
+    max-width: 720px;
+}
+.md-photo{
+    max-width: 960px;
+}
