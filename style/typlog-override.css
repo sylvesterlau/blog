@@ -23,18 +23,10 @@ h2.side_subtitle {
 }
 
 h1.side_title, .site-link {
-    font-family: ff-tisa-sans-web-pro, "Helvetica Neue", Arial, sans-serif;
+    text-transform: none;
 }
 
 h1.p-name {
     font-size: 1.8em;
     line-height: 1.25;
-}
-
-h1.p-name, h2.p-summary, .h-entry .e-content {
-    font-family: nort, "Helvetica Neue", Arial, var(--cjk-sans), sans-serif;
-}
-
-.h-entry .e-content {
-    font-family: "Droid Serif", var(--cjk-sans), sans-serif;
 }
