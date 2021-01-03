@@ -38,7 +38,7 @@ h1.p-name {
 .e-content>.footnotes, .e-content>.highlight, .e-content>.md-block, .e-content>p, .inner, .md-embed {
     max-width: 720px;
 }
-.md-photo, .md-embed video{
+.md-photo, .md-embed.video{
     max-width: 960px;
 }
 
