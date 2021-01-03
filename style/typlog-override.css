@@ -41,3 +41,11 @@ h1.p-name {
 .md-photo{
     max-width: 960px;
 }
+
+.yue ul{
+    list-style: disc;
+}
+
+.e-content blockquote{
+    font-size: 1.1em;
+}
