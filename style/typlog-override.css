@@ -46,6 +46,12 @@ h1.p-name {
     list-style: disc;
 }
 
+.yue p{
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+}
+
 .e-content blockquote{
     font-size: 1.1em;
 }
