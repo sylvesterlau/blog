@@ -57,6 +57,7 @@ h1.p-name {
 }
 
 .e-content blockquote{
+    font-family: "Roboto Slab", serif;
     font-size: 1.1em;
     margin: 2.4em 0.6em;
 }
