@@ -61,3 +61,9 @@ h1.p-name {
     font-size: 1.1em;
     margin: 2.4em 0.6em;
 }
+
+/* essay */
+.essay-card {
+    box-sizing: border-box;
+    max-width: 240px;
+}
