@@ -1,3 +1,8 @@
+---
+layout: default
+title: Final Outcome
+parent: micro-ux
+---
 ![title-img](https://sylvesterlau.com/blog/assets/micro/w7/cover.jpg) 
 ## Final Outcome: A design and evaluation method
 ### Micro UX - Week 7

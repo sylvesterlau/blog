@@ -1,3 +1,8 @@
+---
+layout: default
+title: Duo Dials
+parent: micro-ux
+---
 ## Duo Dials
 ### Micro UX - Week 6
 ![title-img](https://sylvesterlau.com/blog/assets/micro/w6/cover.jpg) 
