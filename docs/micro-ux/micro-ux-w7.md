@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Final Outcome
-parent: micro-ux
+parent: Micro UX
 ---
 ![title-img](https://sylvesterlau.com/blog/assets/micro/w7/cover.jpg) 
 ## Final Outcome: A design and evaluation method

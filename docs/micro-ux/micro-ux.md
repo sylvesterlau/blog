@@ -3,7 +3,7 @@ layout: default
 title: Micro UX
 nav_order: 3
 has_children: true
-permalink: docs/micro-ux
+permalink: /docs/micro-ux
 ---
 
 # Micro UX
