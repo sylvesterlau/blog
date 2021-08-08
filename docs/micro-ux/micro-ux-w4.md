@@ -62,7 +62,7 @@ We asked Alex to be our human guest, and Sanjana acted as the affectionate cooki
 ## Feedback and  reflection
 The classmates are surprised by our rage room experience. We are delighted that our kitchen setups and script work well, and Alex showed impressive performance skills. However, I think we didn’t deliver our concept well. The whole presentation serves as a performance rather than therapy. John and Al compliment our prototype as a proper fidelity to communicate, but the robot should be a mediator instead of a facilitator in the emotional aspects. Next week, we will give a deeper look into the relation and interaction matrix and categorise different robot modes.
 
-👉🏻 See next week: [Interaction-Relation Matrix](https://sylvesterlau.com/blog/docs/micro-ux/micro-ux-w5)
+👉🏻 See next week: [Interaction-Relation Matrix](./docs/micro-ux/micro-ux-w5)
 
 ***
 
