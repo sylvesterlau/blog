@@ -2,6 +2,7 @@
 layout: default
 title: Duo Dials
 parent: Micro UX
+nav_order: 2
 ---
 ## Duo Dials
 ### Micro UX - Week 6
