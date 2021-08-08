@@ -1,6 +1,6 @@
 ---
 layout: default
-title: W5 Duo Dials
+title: W5 Interaction Relation Matrix
 parent: Micro UX
 nav_order: 5
 ---
@@ -55,4 +55,4 @@ In speed-dating on Thursday, we received serval helpful feedback from other grou
 
 Our tutors sensed the basic structure of the research framework by the two axes. But to deliver a convincing method, a higher resolution work should be included in each quadrant. They also gave a lot of suggestions on how to produce higher quality videos.
 
-👉🏻 See next week: [Duo Dials](https://blog.sylvesterlau.com/duo-dials)
+👉🏻 See next week: [Duo Dials](https://sylvesterlau.com/blog/docs/micro-ux/micro-ux-w6)
