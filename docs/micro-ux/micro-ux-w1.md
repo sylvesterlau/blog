@@ -52,7 +52,7 @@ On Thursday, we conducted another experiment to simulate having the Moley robot 
 
 <iframe class="l" src="https://www.youtube.com/embed/jcq8_pWSQz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-👉🏻 See [Week 2: Cooking with the robot](../micro-ux-w2)
+👉🏻 See [Week 2: Cooking with the robot](./micro-ux-w2)
 
 ### References
 - Mintz, S.W. and Du Bois, C.M. (2002). The Anthropology of Food and Eating. Annual Review of Anthropology, 31(1), pp.99–119.

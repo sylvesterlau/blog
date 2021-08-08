@@ -44,4 +44,4 @@ Looking at the traffic flow diagram above, we can discern clear segregation betw
 
 However, do we really need human-robot interaction? When losing patience, human guest joined other social activity during our experiment. 
 
-👉🏻 See [Week 3: String Puppet](../micro-ux-w3)
+👉🏻 See [Week 3: String Puppet](./micro-ux-w3)

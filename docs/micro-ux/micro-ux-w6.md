@@ -42,4 +42,4 @@ Meanwhile, I am accountable for making the shooting plan. With the floorplan ske
 ## Presentation and Reflection
 On Thursday, we presented our progress to different groups over the last weeks, which made us realise that communication needs more craft. The video’s quality is good enough, but the design method part is still confusing. Alex and Tatiana proposed serval questions about which industry is this method for and how designers and engineers will use it, which echos John and Al’s thoughts about presenting the outcome in a grid model. Part of the problems in communication is that we only finished one video but verbally elaborating the massive framework. The final week left will be heavy in both video shooting, editing and deliver an appropriate representation.
 
-👉🏻 See next week: [Final Outcome: A design and evaluation method](../micro-ux-w7)
+👉🏻 See next week: [Final Outcome: A design and evaluation method](./micro-ux-w7)
