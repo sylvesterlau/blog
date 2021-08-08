@@ -9,13 +9,10 @@ Micro UX - Week 4
 
 ![title-img](https://sylvesterlau.com/blog/assets/micro/w4/kitchen-sketch.jpg)
 
-
-**Brief:** Design the social relations and interactions between a robot chef and its human guests.
-
-**External Partner:** [Moley Robotics](https://moley.com)
-
-**Team:** Tiana, Ana, Sanjana, Sylvester
-
+```
+Brief: Design the social relations and interactions between a robot chef and its human guests.
+Team: Tiana, Ana, Sanjana, Sylvester
+```
 
 This week is the midpoint presentation, and we are presenting our idea to both the cohort and James from Moley Robotic. Unlike previous meetings, we must communicate our three week’s work briefly and come up with a relatively complete design direction. At the weekend, each of us brainstormed storyboards or scripts to elaborate and enlarge interactions.
 
