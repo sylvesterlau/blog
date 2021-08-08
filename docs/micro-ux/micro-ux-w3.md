@@ -37,4 +37,4 @@ The experiment evoked loads of interactions comparing to last week, which confir
 
 During the feedback session, John and Al assent setting up a scenario (the human comes from work and wants a pizza), but pointed out it could be more fruitful to improve effective improvisation. A more scientific approach is essential for our experiment, meaning that we need to consider what to test, which variants to tackle carefully. For example, if we focus on human emotions, it would be unnecessary to ask how the ‘robot’ feels. In general, the design this week is more of a workshop than an experiment: it aims to provide inspiration and unexpected outcome. Next week, we plan to refine our props and scene settings to explore interaction patterns in the kitchen.
 
-👉🏻 See [Week 4: Rage Room](/docs/micro-ux/micro-ux-w3)
+👉🏻 See [Week 4: Rage Room](../micro-ux-w3)

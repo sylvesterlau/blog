@@ -11,13 +11,13 @@ permalink: /
 Coming soon...
 
 [Micro UX](./docs/micro-ux)
-- [Week 7: Final Outcome: A design and evaluation method](./docs/micro-ux/micro-ux-w7)
+- [Week 7: Final Outcome](./docs/micro-ux/micro-ux-w7)
 - [Week 6: Duo Dials](./docs/micro-ux/micro-ux-w6)
-- [Week 5: ](./docs/micro-ux/micro-ux-w5)
-- [Week 4: ](./docs/micro-ux/micro-ux-w4)
-- [Week 3: ](./docs/micro-ux/micro-ux-w3)
-- [Week 2: ](./docs/micro-ux/micro-ux-w2)
-- [Week 1: ](./docs/micro-ux/micro-ux-w1)
+- [Week 5: Interaction Relation Matrix](./docs/micro-ux/micro-ux-w5)
+- [Week 4: Rage Room](./docs/micro-ux/micro-ux-w4)
+- [Week 3: String Puppet](./docs/micro-ux/micro-ux-w3)
+- [Week 2: Cooking with the robot](./docs/micro-ux/micro-ux-w2)
+- [Week 1: Robot is taking over](./docs/micro-ux/micro-ux-w1)
 
 [Macro UX](./docs/macro-ux)
 - [Week 7: ](./docs/macroux/macroux-w7)

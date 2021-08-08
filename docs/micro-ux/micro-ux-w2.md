@@ -1,6 +1,6 @@
 ---
 layout: default
-title: W2 String Puppet
+title: W2 Cooking with the robot
 parent: Micro UX
 nav_order: 2
 ---
@@ -44,4 +44,4 @@ Looking at the traffic flow diagram above, we can discern clear segregation betw
 
 However, do we really need human-robot interaction? When losing patience, human guest joined other social activity during our experiment. 
 
-👉🏻 See [Week 3: String Puppet](./blog/docs/micro-ux/micro-ux-w3.html)
+👉🏻 See [Week 3: String Puppet](../micro-ux-w3)
