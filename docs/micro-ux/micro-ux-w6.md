@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Duo Dials
+title: W6 Duo Dials
 parent: Micro UX
-nav_order: 2
+nav_order: 6
 ---
-## Duo Dials
+# Duo Dials
 ### Micro UX - Week 6
 ![title-img](https://sylvesterlau.com/blog/assets/micro/w6/cover.jpg) 
 **Brief:** Design the social relations and interactions between a robot chef and its human guests.

@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Final Outcome
+title: W7 Final Outcome
 parent: Micro UX
-nav_order: 1
+nav_order: 7
 ---
-![title-img](https://sylvesterlau.com/blog/assets/micro/w7/cover.jpg) 
-## Final Outcome: A design and evaluation method
+
+# Final Outcome: A design and evaluation method
 ### Micro UX - Week 7
+![title-img](https://sylvesterlau.com/blog/assets/micro/w7/cover.jpg) 
 
 **Brief:** Design the social relations and interactions between a robot chef and its human guests.
 
