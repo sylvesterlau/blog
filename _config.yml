@@ -1,6 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: Just the Docs
-description: A Jekyll theme for documentation
+title: sylvester’s mess
+description: An other MA UX blog
 baseurl: "/blog" # subpath of your site
 url: "https://sylvesterlau.com" # the base hostname & protocol for your site
+
+logo: "/assets/fav-icon-mess.png"
+
+footer_content: "© 2021 by <a href=\"https://sylvesterlau.com\">sylvester lau.</a>"
