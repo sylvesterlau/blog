@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cyber Rose
+title: P2 Cyber Rose
 parent: Collaborative Unit
 nav_order: 1
 ---

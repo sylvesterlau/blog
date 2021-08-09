@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Journey to the Jar
+title: X2 Journey to the Jar
 parent: Collaborative Unit
 nav_order: 3
 ---

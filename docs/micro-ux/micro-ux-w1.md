@@ -2,7 +2,7 @@
 layout: default
 title: W1 Robot is taking over
 parent: Micro UX
-nav_order: 1
+nav_order: 7
 ---
 
 ![title-img](https://sylvesterlau.com/blog/assets/micro/w1/cover.jpg)

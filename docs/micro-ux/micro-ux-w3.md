@@ -2,7 +2,7 @@
 layout: default
 title: W3 String Puppet
 parent: Micro UX
-nav_order: 3
+nav_order: 5
 ---
 # String Puppet
 Micro UX - Week 3

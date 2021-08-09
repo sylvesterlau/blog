@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Soma and LARPing
+title: X1 Soma and LARPing
 parent: Collaborative Unit
 nav_order: 4
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: W5 Interaction Relation Matrix
 parent: Micro UX
-nav_order: 5
+nav_order: 3
 ---
 # Interaction Relation Matrix
 Micro UX - Week 5

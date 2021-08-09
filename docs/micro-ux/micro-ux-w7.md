@@ -2,7 +2,7 @@
 layout: default
 title: W7 Final Outcome
 parent: Micro UX
-nav_order: 7
+nav_order: 1
 ---
 
 # Final Outcome: A design and evaluation method

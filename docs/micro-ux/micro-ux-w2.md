@@ -2,7 +2,7 @@
 layout: default
 title: W2 Cooking with the robot
 parent: Micro UX
-nav_order: 2
+nav_order: 6
 ---
 
 ![title-img](https://sylvesterlau.com/blog/assets/micro/w2/traffic-flow-1.jpg)
