@@ -29,10 +29,10 @@ Coming soon...
 - [Week 1: ](./docs/macroux/macroux-w1)
 
 [Collaborative Unit](./docs/collaborative-unit)
-- [Prehension Beyond Human Week 1](./docs/collaborative-unit/collaborative-unit-w4)
-- [Prehension Beyond Human Week 1](./docs/collaborative-unit/collaborative-unit-w3)
-- [Xenosomatic Week 2](./docs/collaborative-unit/collaborative-unit-w2)
-- [Xenosomatic Week 1](./docs/collaborative-unit/collaborative-unit-w1)
+- [Prehension Beyond Human Week 2](./docs/collaborative-unit/prehension-2)
+- [Prehension Beyond Human Week 1](./docs/collaborative-unit/prehension-1)
+- [Xenosomatic Week 2](./docs/collaborative-unit/xeno-2)
+- [Xenosomatic Week 1](./docs/collaborative-unit/xeno-1)
 
 [UX Studio Practices](./docs/ux-studio-practices)
 
