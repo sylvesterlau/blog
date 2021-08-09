@@ -33,10 +33,10 @@ Coming soon...
 ***
 
 #### [Collaborative Unit](./docs/collaborative-unit)
-- [Prehension Beyond Human Week 2](./docs/collaborative-unit/prehension-2)
-- [Prehension Beyond Human Week 1](./docs/collaborative-unit/prehension-1)
-- [Xenosomatic Week 2](./docs/collaborative-unit/xeno-2)
-- [Xenosomatic Week 1](./docs/collaborative-unit/xeno-1)
+- [Prehension Beyond Human Part 2](./docs/collaborative-unit/prehension-2)
+- [Prehension Beyond Human Part 1](./docs/collaborative-unit/prehension-1)
+- [Xenosomatic Part 2](./docs/collaborative-unit/xeno-2)
+- [Xenosomatic Part 1](./docs/collaborative-unit/xeno-1)
 
 ***
 
