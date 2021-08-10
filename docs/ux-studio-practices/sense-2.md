@@ -5,7 +5,7 @@ parent: UX Studio Practices
 nav_order: 9
 ---
 
-![title-img](https://sylvesterlau.com/blog/assets/ux-sense/cover.jpg)
+![title-img](https://sylvesterlau.com/blog/assets/ux-sense/story-cards.jpg)
 # A Non-verbal Story
 The UX of Human Senses - part 2
 

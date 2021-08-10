@@ -5,7 +5,7 @@ parent: UX Studio Practices
 nav_order: 10
 ---
 
-![title-img](https://sylvesterlau.com/blog/assets/ux-sense/story-cards.jpg)
+![title-img](https://sylvesterlau.com/blog/assets/ux-sense/cover.jpg)
 # Sensing Togetherness
 The UX of Human Senses - part 1
 
