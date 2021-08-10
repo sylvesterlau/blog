@@ -2,10 +2,10 @@
 layout: default
 title: 2.2 Peeling, Healing
 parent: UX Studio Practices
-nav_order: 8
+nav_order: 7
 ---
 
-![title-img](https://sylvesterlau.com/blog/assets/ux-sense/story-cards.jpg)
+![title-img](https://i.typlog.com/sylvester/8394698300_373176.jpg)
 # Peeling, Healing
 The UX of Skin - week 2
 

@@ -5,7 +5,7 @@ parent: UX Studio Practices
 nav_order: 8
 ---
 
-![title-img](https://sylvesterlau.com/blog/assets/ux-sense/story-cards.jpg)
+![title-img](https://sylvesterlau.com/blog/assets/ux-skin/sketch-skin-peeling-1.jpeg)
 # Skin Anxiety
 The UX of Skin - week 1
 
