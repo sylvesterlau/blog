@@ -48,7 +48,7 @@ The presentation went well on our physical class on Thursday. After explaining t
 
 The most enjoyable part for me is to have Alex played with objects and articulate the story in his mind. As a non-native English speaker, I worried if people could complete a scene. But imagination and creativity are more vital than the language in this case. John also considered it as a new way of creative writing. It reminds me of the mood board tool, but designers can involve more sensory than just visual expression.
 
-It is a fresh start for our MA UX programme with humour, curiosity, and that ‘everything is messy but connected’. Next week we’ll move on to [the Skin Project](https://blog.sylvesterlau.com/skin-anxiety).
+It is a fresh start for our MA UX programme with humour, curiosity, and that ‘everything is messy but connected’. Next week we’ll move on to [the Skin Project](/skin-1).
 
 ***
 
